@@ -1,5 +1,9 @@
 # dikkie_dik_additieve_kleurencirkel
 
+Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+---|---
+`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/dikkie_dik_additieve_kleurencirkel.svg?branch=master)](https://travis-ci.org/richelbilderbeek/dikkie_dik_additieve_kleurencirkel)
+
 De kleuropdracht 'Dikkie Dik en Poes Daddy' om de additieve kleurencirkel mee te oefenen.
 
 ## Downloads
